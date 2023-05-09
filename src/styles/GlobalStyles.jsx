@@ -12,7 +12,9 @@ export const GlobalStyles = css`
       'Helvetica Neue', sans-serif;
 
     min-height: 100vh;
+
     font-style: normal;
+    color: #212121;
   }
 
   h1,
@@ -23,6 +25,7 @@ export const GlobalStyles = css`
   h6,
   p {
     margin-top: 0;
+    margin-bottom: 0;
   }
 
   ul,
